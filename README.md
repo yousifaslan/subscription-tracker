@@ -37,6 +37,15 @@ Files created while running (not in the repo): `data/report.txt` (saved report) 
 ## Requirements
 Python 3.8 or newer. Only the standard library is used (`argparse`, `datetime`, `calendar`, `math`, `os`, `sys`), so there is nothing to install.
 
+## Quick demo (2 minutes)
+```bash
+python3 cli.py list --sort price
+python3 cli.py upcoming --days 7
+python3 cli.py budget 3000
+python3 cli.py add --name Netflix --price abc --cycle monthly --renewal 2026-10-20   # rejected: bad price
+python3 cli.py report
+```
+
 ## Usage: command line (`cli.py`)
 ```bash
 python3 cli.py --help                 # list all commands
