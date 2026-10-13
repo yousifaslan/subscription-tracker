@@ -9,3 +9,6 @@ Amazon Prime,69.9,monthly,2026-11-03
 Gym,1200.0,monthly,2026-09-08
 Adobe,4500.0,yearly,2027-02-01
 Duolingo,1199.0,yearly,2026-09-30
+Xbox Game Pass,249.0,monthly,2026-10-28
+Notion,1200.0,yearly,2027-03-15
+Canva,99.99,monthly,2026-10-21
