@@ -9,7 +9,7 @@ Developer: I worked on the code with Yousif, on the category system.
 
 
 ## Commits
-- Add Gaming category and more services
+- Gaming category and more services
 
 ## What I learned
 How a dictionary works as a lookup table: `CATEGORIES.get(name, "Other")` finds a category in one step and safely falls back to "Other" for unknown names, instead of writing many if/elif statements.
