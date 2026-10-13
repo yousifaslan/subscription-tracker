@@ -68,8 +68,10 @@ python3 subscription_tracker.py
 4) Remove      5) Report      6) Budget    0) Exit
 ```
 When adding, every question is asked again until the answer is valid. Ctrl+C or Ctrl+D exits cleanly.
-## Example output
 
+
+## Example output
+```
 $ python3 cli.py upcoming --days 7
 Renewing in the next 7 days:
   Spotify                99.00 TL   in 1 day(s)  (2026-10-14)  <-- SOON!
@@ -82,6 +84,9 @@ Monthly total:   3392.79 TL
 Yearly total:    40713.44 TL
 Most expensive:  Gym (1200.00 TL/month)
 Monthly budget:  3000.00 TL - OVER BUDGET by 392.79 TL (113%)
+```
+
+
 ## Data file format (`data/subscriptions.txt`)
 One subscription per line: `name,price,cycle,next_renewal`
 ```
