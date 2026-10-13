@@ -6,7 +6,7 @@ Developer: I worked on the code with Yousif, on the category system.
 ## What I contributed
 - Extended the `CATEGORIES` dictionary in `subscription_tracker.py` with a new **Gaming** category and more services (YouTube Music, Canva, Notion, Xbox Game Pass, PlayStation Plus)
 - This means these services are grouped correctly in `list` and in the report's "spending by category" instead of falling into "Other"
-- (add anything else you really did: testing the CLI, reviewing code, ideas…)
+
 
 ## Commits
 - Add Gaming category and more services
