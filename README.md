@@ -82,7 +82,6 @@ Monthly total:   3392.79 TL
 Yearly total:    40713.44 TL
 Most expensive:  Gym (1200.00 TL/month)
 Monthly budget:  3000.00 TL - OVER BUDGET by 392.79 TL (113%)
-
 ## Data file format (`data/subscriptions.txt`)
 One subscription per line: `name,price,cycle,next_renewal`
 ```
