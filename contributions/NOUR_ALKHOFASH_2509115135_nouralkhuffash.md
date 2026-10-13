@@ -1,4 +1,4 @@
-# Nour Alkhuffash · 2509115135 · @nouralkhuffash
+# Nour Alkhofash · 2509115135 · @nouralkhuffash
 
 ## My role
 Presentation designer and test data: I worked on the PowerPoint and added example data to the project.
