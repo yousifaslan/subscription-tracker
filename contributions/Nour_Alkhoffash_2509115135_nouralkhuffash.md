@@ -6,7 +6,6 @@ Presentation designer and test data: I worked on the PowerPoint and added exampl
 ## What I contributed
 - Worked on the presentation slides (PPTX) with Mais: structure, design, and the code-snippet slides
 - Added more realistic subscriptions to data/sample_subscriptions.txt (Xbox Game Pass, Notion, Canva), including a yearly one, so the demo shows more categories and both billing cycles
-- (add anything else you really did)
 
 ## Commits
 - Add more sample subscriptions
