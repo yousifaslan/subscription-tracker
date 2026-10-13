@@ -1,0 +1,11 @@
+# name,price,cycle,next_renewal (YYYY-MM-DD)
+Netflix,229.99,monthly,2026-10-12
+Spotify,99.0,monthly,2026-10-14
+ChatGPT Plus,749.0,monthly,2026-10-18
+YouTube Premium,79.99,monthly,2026-10-22
+PlayStation Plus,450.0,monthly,2026-10-25
+iCloud,39.99,monthly,2026-10-27
+Amazon Prime,69.9,monthly,2026-11-03
+Gym,1200.0,monthly,2026-09-08
+Adobe,4500.0,yearly,2027-02-01
+Duolingo,1199.0,yearly,2026-09-30
