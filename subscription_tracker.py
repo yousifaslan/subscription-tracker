@@ -44,6 +44,11 @@ CATEGORIES = {
     "microsoft 365": "Productivity",
     "duolingo": "Education",
     "gym": "Health",
+    "youtube music": "Music",
+    "canva": "Productivity",
+    "notion": "Productivity",
+    "xbox game pass": "Gaming",
+    "playstation plus": "Gaming",
 }
 
 
