@@ -27,7 +27,7 @@ subscription-tracker/
 ├── subscription_tracker.py     # Core logic: input checks, file reading/saving, auto-renew, budget, report, interactive menu
 ├── data/
 │   ├── subscriptions.txt       # Your subscriptions (read and updated by the program)
-│   └── sample_subscriptions.txt# Clean example data, used to reset subscriptions.txt
+│   └── sample_subscriptions.txt # Clean example data, used to reset subscriptions.txt
 ├── contributions/              # One file per team member describing their contribution
 ├── README.md                   # This file
 └── .gitignore                  # Keeps generated files (report, budget, caches) out of the repo
